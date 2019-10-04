@@ -1,0 +1,10 @@
+{
+  "name": "github-auth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Trufa <trufavarela@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@now/node": "^1.0.1"
+  }
+}
